@@ -1,5 +1,5 @@
 # Trolled-4.0 - Registry Computer Defualt Exploit
-Trolled 4.0 is a macro designed to implement and improve on trolled 3.0 and cause priviledge escalation. It works on the latest version of windows 10 and 11 as of writing.
+Trolled 4.0 is a macro designed to implement and improve on trolled 3.0 and cause priviledge escalation. It works on the latest version of windows 10 and 11 as of writing. Using this also does not require exe priviledges. You will need to have the ability to run vbscripts though.
 
 ## How It Works
 
